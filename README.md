@@ -1,6 +1,3 @@
-# Aegisub-Karaoke-Effect-1300-Templates
-转载自http://www.ktheme.com/
-
 【追本溯源】
 
 网上广为流传的1300例的源头在这里：
